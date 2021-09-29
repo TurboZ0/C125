@@ -1,0 +1,33 @@
+.note {
+    font-size: 18px;
+    color: green;
+}
+.gg {
+    color: red;
+}
+.heading {
+    font-size: 22px;
+    width: 100%;
+    margin: 0;
+    box-shadow: 6px 6px 16px black;
+    font-family: ALGERIAN;
+}
+.copyright_footer {
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    color: red;
+    background-color: yellow;
+    width: 100%;
+    height: 30px;
+    font-size: 20px;
+    font-family: ALGERIAN;
+}
+canvas {
+    border: 2px black solid;
+    border-radius: 20px;
+    box-shadow: 6px 6px 16px darkgray;
+}
+#black0 {
+    color: blue;
+}
